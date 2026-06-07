@@ -1,0 +1,412 @@
+{
+  "/Users/eugenio/dev/RAHasher/RALibretro.sln": {
+    "mtime": 1780826654.7322333,
+    "ast_hash": "f34910ee51163b0f82e0c665ed91c458",
+    "semantic_hash": "f34910ee51163b0f82e0c665ed91c458"
+  },
+  "/Users/eugenio/dev/RAHasher/src/About.cpp": {
+    "mtime": 1780826654.7326097,
+    "ast_hash": "003741773a6d18e95e3fac629bbbfa67",
+    "semantic_hash": "003741773a6d18e95e3fac629bbbfa67"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Memory.cpp": {
+    "mtime": 1780826654.734184,
+    "ast_hash": "59c41d3b7e6a16c73ad1650a7014e48d",
+    "semantic_hash": "59c41d3b7e6a16c73ad1650a7014e48d"
+  },
+  "/Users/eugenio/dev/RAHasher/src/About.h": {
+    "mtime": 1780826654.73268,
+    "ast_hash": "ded986e707103bc3b7c8ccad3b0aac3f",
+    "semantic_hash": "ded986e707103bc3b7c8ccad3b0aac3f"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Util.cpp": {
+    "mtime": 1780826654.7350082,
+    "ast_hash": "c9d392764828ca47fc18ba9af12f3381",
+    "semantic_hash": "c9d392764828ca47fc18ba9af12f3381"
+  },
+  "/Users/eugenio/dev/RAHasher/src/CdRom.cpp": {
+    "mtime": 1780826654.7330005,
+    "ast_hash": "00b905a14dd4bccdf99c4a3afd9f454a",
+    "semantic_hash": "00b905a14dd4bccdf99c4a3afd9f454a"
+  },
+  "/Users/eugenio/dev/RAHasher/src/GlUtil.h": {
+    "mtime": 1780826654.733589,
+    "ast_hash": "44c017f0ace1f69edb259efcc0d8256a",
+    "semantic_hash": "44c017f0ace1f69edb259efcc0d8256a"
+  },
+  "/Users/eugenio/dev/RAHasher/src/stb_image_write.h": {
+    "mtime": 1780826654.7404485,
+    "ast_hash": "1d43520ec288f3064fb73b1d0fb97cd4",
+    "semantic_hash": "1d43520ec288f3064fb73b1d0fb97cd4"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Application.h": {
+    "mtime": 1780826654.7329483,
+    "ast_hash": "7cd709eb3897315bdd6bb7de824c9d10",
+    "semantic_hash": "7cd709eb3897315bdd6bb7de824c9d10"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Emulator.cpp": {
+    "mtime": 1780826654.7331107,
+    "ast_hash": "1135a5736591079da416ef8fbb5bb7fd",
+    "semantic_hash": "1135a5736591079da416ef8fbb5bb7fd"
+  },
+  "/Users/eugenio/dev/RAHasher/src/HashCHD.cpp": {
+    "mtime": 1780826654.733971,
+    "ast_hash": "3bab44b7481d9784e407530eb9216148",
+    "semantic_hash": "3bab44b7481d9784e407530eb9216148"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Fsm.h": {
+    "mtime": 1780826654.7333715,
+    "ast_hash": "1808875a327583cc0ddef0f95f616945",
+    "semantic_hash": "1808875a327583cc0ddef0f95f616945"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Gl.cpp": {
+    "mtime": 1780826654.733434,
+    "ast_hash": "cb935002db5489e924a081dc3c54d9bf",
+    "semantic_hash": "cb935002db5489e924a081dc3c54d9bf"
+  },
+  "/Users/eugenio/dev/RAHasher/src/font.py": {
+    "mtime": 1780826654.736976,
+    "ast_hash": "9285b69767fdffe3f0c10388be38a612",
+    "semantic_hash": "9285b69767fdffe3f0c10388be38a612"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Emulator.h": {
+    "mtime": 1780826654.7331724,
+    "ast_hash": "a1c1390a22c6e60741f9797e555fb67a",
+    "semantic_hash": "a1c1390a22c6e60741f9797e555fb67a"
+  },
+  "/Users/eugenio/dev/RAHasher/src/stb_image.h": {
+    "mtime": 1780826654.7402601,
+    "ast_hash": "2a512ad9f82f104b8120e52babd37cc7",
+    "semantic_hash": "2a512ad9f82f104b8120e52babd37cc7"
+  },
+  "/Users/eugenio/dev/RAHasher/src/CdRom.h": {
+    "mtime": 1780826654.7330456,
+    "ast_hash": "7f3a77f4b85f229b8a05546ca5a69126",
+    "semantic_hash": "7f3a77f4b85f229b8a05546ca5a69126"
+  },
+  "/Users/eugenio/dev/RAHasher/src/RAHasher.cpp": {
+    "mtime": 1780826654.734326,
+    "ast_hash": "50831cd819c85a717aabff033cb1d863",
+    "semantic_hash": "50831cd819c85a717aabff033cb1d863"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Fsm.cpp": {
+    "mtime": 1780826654.733226,
+    "ast_hash": "ec1f74d028a33cc1efaf9ace222156fb",
+    "semantic_hash": "ec1f74d028a33cc1efaf9ace222156fb"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Util.h": {
+    "mtime": 1780826654.7350996,
+    "ast_hash": "2e8dcd3784b83ed260c76cb2f84e84b6",
+    "semantic_hash": "2e8dcd3784b83ed260c76cb2f84e84b6"
+  },
+  "/Users/eugenio/dev/RAHasher/src/resource.h": {
+    "mtime": 1780826654.738579,
+    "ast_hash": "b27aa24ce736057f6c2352285641d899",
+    "semantic_hash": "b27aa24ce736057f6c2352285641d899"
+  },
+  "/Users/eugenio/dev/RAHasher/src/KeyBinds.h": {
+    "mtime": 1780826654.734141,
+    "ast_hash": "63b00a0fe24fcef0773fc71d9b15ae58",
+    "semantic_hash": "63b00a0fe24fcef0773fc71d9b15ae58"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Gl.h": {
+    "mtime": 1780826654.7334917,
+    "ast_hash": "7959e4baa7192a959724c70d076b6915",
+    "semantic_hash": "7959e4baa7192a959724c70d076b6915"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Memory.h": {
+    "mtime": 1780826654.734259,
+    "ast_hash": "e7feb89e5cffde3e8dd59a47ae826e43",
+    "semantic_hash": "e7feb89e5cffde3e8dd59a47ae826e43"
+  },
+  "/Users/eugenio/dev/RAHasher/src/States.h": {
+    "mtime": 1780826654.7349386,
+    "ast_hash": "19647e1fda26feb2f025cbe57a9530fe",
+    "semantic_hash": "19647e1fda26feb2f025cbe57a9530fe"
+  },
+  "/Users/eugenio/dev/RAHasher/src/GlUtil.cpp": {
+    "mtime": 1780826654.733547,
+    "ast_hash": "0a63be0010229b31442643435e85b8bb",
+    "semantic_hash": "0a63be0010229b31442643435e85b8bb"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Hash.cpp": {
+    "mtime": 1780826654.7336867,
+    "ast_hash": "9c6172f6f79b705a04883cbc5671d07b",
+    "semantic_hash": "9c6172f6f79b705a04883cbc5671d07b"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Application.cpp": {
+    "mtime": 1780826654.7328277,
+    "ast_hash": "4e3782c957f9ae3d430fd5ae1b1b74ec",
+    "semantic_hash": "4e3782c957f9ae3d430fd5ae1b1b74ec"
+  },
+  "/Users/eugenio/dev/RAHasher/src/RA_Implementation.cpp": {
+    "mtime": 1780826654.7347684,
+    "ast_hash": "200e4d9549c5bf26e3c1298241c73c9b",
+    "semantic_hash": "200e4d9549c5bf26e3c1298241c73c9b"
+  },
+  "/Users/eugenio/dev/RAHasher/src/States.cpp": {
+    "mtime": 1780826654.7348652,
+    "ast_hash": "3151c9be04d0182481b88f4eb1fb5390",
+    "semantic_hash": "3151c9be04d0182481b88f4eb1fb5390"
+  },
+  "/Users/eugenio/dev/RAHasher/src/main.cpp": {
+    "mtime": 1780826654.7383375,
+    "ast_hash": "896495207a03a7e6e7fb234a1a3c64cb",
+    "semantic_hash": "896495207a03a7e6e7fb234a1a3c64cb"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Hash.h": {
+    "mtime": 1780826654.7337651,
+    "ast_hash": "2fdcbc5efb39cf4889f71ada067bc9f6",
+    "semantic_hash": "2fdcbc5efb39cf4889f71ada067bc9f6"
+  },
+  "/Users/eugenio/dev/RAHasher/src/Hash3DS.cpp": {
+    "mtime": 1780826654.7338676,
+    "ast_hash": "f823827a3a4eb7e365ba6be9e2eb91e8",
+    "semantic_hash": "f823827a3a4eb7e365ba6be9e2eb91e8"
+  },
+  "/Users/eugenio/dev/RAHasher/src/KeyBinds.cpp": {
+    "mtime": 1780826654.7340794,
+    "ast_hash": "af0edbb715fd0f21a5a943ffe3a296b6",
+    "semantic_hash": "af0edbb715fd0f21a5a943ffe3a296b6"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/stack_alloc.h": {
+    "mtime": 1780826654.7397869,
+    "ast_hash": "2acefd003bb7399e08308acc110abe35",
+    "semantic_hash": "2acefd003bb7399e08308acc110abe35"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/fixed_arm4.h": {
+    "mtime": 1780826654.7390277,
+    "ast_hash": "717f6804d2e4e9e8041e5b20f75e122f",
+    "semantic_hash": "717f6804d2e4e9e8041e5b20f75e122f"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/speex_resampler.h": {
+    "mtime": 1780826654.7397392,
+    "ast_hash": "1ef8cf562b01cbc4ff277a535c2615fc",
+    "semantic_hash": "1ef8cf562b01cbc4ff277a535c2615fc"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/fixed_generic.h": {
+    "mtime": 1780826654.739388,
+    "ast_hash": "4e4f458f4edb2491cac0557e88590b49",
+    "semantic_hash": "4e4f458f4edb2491cac0557e88590b49"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/fixed_arm5e.h": {
+    "mtime": 1780826654.7391071,
+    "ast_hash": "a5bcaefc202a0683a230ecb66c4a315a",
+    "semantic_hash": "a5bcaefc202a0683a230ecb66c4a315a"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/resample.c": {
+    "mtime": 1780826654.7394805,
+    "ast_hash": "7bbb0383342447f68e35a01a5c679814",
+    "semantic_hash": "7bbb0383342447f68e35a01a5c679814"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/resample_neon.h": {
+    "mtime": 1780826654.7395685,
+    "ast_hash": "d6807c4fdd6945177ee9f987906b9081",
+    "semantic_hash": "d6807c4fdd6945177ee9f987906b9081"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/fixed_bfin.h": {
+    "mtime": 1780826654.739211,
+    "ast_hash": "95b76d50567391f8ddaae3fa930dc6c7",
+    "semantic_hash": "95b76d50567391f8ddaae3fa930dc6c7"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/fixed_debug.h": {
+    "mtime": 1780826654.7393029,
+    "ast_hash": "aecbbda55724414e94244609a4c3c3b5",
+    "semantic_hash": "aecbbda55724414e94244609a4c3c3b5"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/resample_sse.h": {
+    "mtime": 1780826654.7396522,
+    "ast_hash": "be6824cb81d1b978ca12d44bd2549311",
+    "semantic_hash": "be6824cb81d1b978ca12d44bd2549311"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/arch.h": {
+    "mtime": 1780826654.738936,
+    "ast_hash": "aae8dbc24fb5476a29721ad6eeefc4fb",
+    "semantic_hash": "aae8dbc24fb5476a29721ad6eeefc4fb"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/VideoContext.cpp": {
+    "mtime": 1780826654.7366712,
+    "ast_hash": "51e249c2a3267e85d66281a1a09ab2f0",
+    "semantic_hash": "51e249c2a3267e85d66281a1a09ab2f0"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Input.h": {
+    "mtime": 1780826654.7361698,
+    "ast_hash": "57a404d01a69f867dfb1d7179ddf0d02",
+    "semantic_hash": "57a404d01a69f867dfb1d7179ddf0d02"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Input.cpp": {
+    "mtime": 1780826654.7360678,
+    "ast_hash": "dd50a2c9a030e0ade4b2e7dbd195842e",
+    "semantic_hash": "dd50a2c9a030e0ade4b2e7dbd195842e"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Dialog.h": {
+    "mtime": 1780826654.7357984,
+    "ast_hash": "3536ddbb2b7c9c8410593515f2fdcb57",
+    "semantic_hash": "3536ddbb2b7c9c8410593515f2fdcb57"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Config.h": {
+    "mtime": 1780826654.7356193,
+    "ast_hash": "a659a548c02b8772252d16227e0ff309",
+    "semantic_hash": "a659a548c02b8772252d16227e0ff309"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Microphone.h": {
+    "mtime": 1780826654.7364542,
+    "ast_hash": "dc6870df9517cb910d3b348cd6481936",
+    "semantic_hash": "dc6870df9517cb910d3b348cd6481936"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/BitmapFont.h": {
+    "mtime": 1780826654.7354,
+    "ast_hash": "a0df77de8cf936f46bc90e2ff874fdc2",
+    "semantic_hash": "a0df77de8cf936f46bc90e2ff874fdc2"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Dialog.cpp": {
+    "mtime": 1780826654.7357292,
+    "ast_hash": "f94d53db430104507da5c07124e8085a",
+    "semantic_hash": "f94d53db430104507da5c07124e8085a"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Audio.cpp": {
+    "mtime": 1780826654.735285,
+    "ast_hash": "948f886ba1de33f169fd679fe47f5470",
+    "semantic_hash": "948f886ba1de33f169fd679fe47f5470"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Audio.h": {
+    "mtime": 1780826654.7353325,
+    "ast_hash": "774b7e04f340293e96b612cab3f4620e",
+    "semantic_hash": "774b7e04f340293e96b612cab3f4620e"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Video.cpp": {
+    "mtime": 1780826654.736527,
+    "ast_hash": "a18f24c9558598c3ae556a8b69bdf43c",
+    "semantic_hash": "a18f24c9558598c3ae556a8b69bdf43c"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/VideoContext.h": {
+    "mtime": 1780826654.736746,
+    "ast_hash": "b3a498ab1f522483433dfdc136a7f209",
+    "semantic_hash": "b3a498ab1f522483433dfdc136a7f209"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Microphone.cpp": {
+    "mtime": 1780826654.7364106,
+    "ast_hash": "2a347bc06fac28cab1c606ef9b2d3ac1",
+    "semantic_hash": "2a347bc06fac28cab1c606ef9b2d3ac1"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Allocator.h": {
+    "mtime": 1780826654.7351758,
+    "ast_hash": "7ed269aa5f52e694b8332243771fb877",
+    "semantic_hash": "7ed269aa5f52e694b8332243771fb877"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Config.cpp": {
+    "mtime": 1780826654.7355118,
+    "ast_hash": "7f7247e780bbfe4dfce655fdfee18cc8",
+    "semantic_hash": "7f7247e780bbfe4dfce655fdfee18cc8"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Video.h": {
+    "mtime": 1780826654.7366195,
+    "ast_hash": "a8ecfa0d0d333888cb297391db52ded8",
+    "semantic_hash": "a8ecfa0d0d333888cb297391db52ded8"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Logger.cpp": {
+    "mtime": 1780826654.7362633,
+    "ast_hash": "d80530e4239f5eda99badd238f16e93a",
+    "semantic_hash": "d80530e4239f5eda99badd238f16e93a"
+  },
+  "/Users/eugenio/dev/RAHasher/src/components/Logger.h": {
+    "mtime": 1780826654.7363186,
+    "ast_hash": "ac2c1206ab9d5daff35ad23fb2a59be1",
+    "semantic_hash": "ac2c1206ab9d5daff35ad23fb2a59be1"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libretro/Core.h": {
+    "mtime": 1780826654.738005,
+    "ast_hash": "b53cf3e7faa6e9f9ebd2980c7635cd42",
+    "semantic_hash": "b53cf3e7faa6e9f9ebd2980c7635cd42"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libretro/Core.cpp": {
+    "mtime": 1780826654.7378907,
+    "ast_hash": "3c5c63f140d37397a5b356751479c8b1",
+    "semantic_hash": "3c5c63f140d37397a5b356751479c8b1"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libretro/BareCore.h": {
+    "mtime": 1780826654.7376888,
+    "ast_hash": "5597d0cfd20502b782442dd3f73d8596",
+    "semantic_hash": "5597d0cfd20502b782442dd3f73d8596"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libretro/Components.h": {
+    "mtime": 1780826654.7378273,
+    "ast_hash": "05b4eaaab5864d4a2cefa6650f5f1be5",
+    "semantic_hash": "05b4eaaab5864d4a2cefa6650f5f1be5"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libretro/libretro.h": {
+    "mtime": 1780826654.7382812,
+    "ast_hash": "ef2dd44f2dd267dd19f64c218e1d5f5f",
+    "semantic_hash": "ef2dd44f2dd267dd19f64c218e1d5f5f"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libretro/BareCore.cpp": {
+    "mtime": 1780826654.7376027,
+    "ast_hash": "02e2b5f78bfb1f951be938e3a902a067",
+    "semantic_hash": "02e2b5f78bfb1f951be938e3a902a067"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libmincrypt/sha256.h": {
+    "mtime": 1780826654.7374582,
+    "ast_hash": "3e3164a02791397996d1cf24a279e845",
+    "semantic_hash": "3e3164a02791397996d1cf24a279e845"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libmincrypt/sha256.c": {
+    "mtime": 1780826654.737405,
+    "ast_hash": "7614094df98f8859600affcc4c05ff23",
+    "semantic_hash": "7614094df98f8859600affcc4c05ff23"
+  },
+  "/Users/eugenio/dev/RAHasher/src/libmincrypt/hash-internal.h": {
+    "mtime": 1780826654.7373188,
+    "ast_hash": "916f76c0b810f371ff2db3f079a76ac7",
+    "semantic_hash": "916f76c0b810f371ff2db3f079a76ac7"
+  },
+  "/Users/eugenio/dev/RAHasher/src/dynlib/dynlib.h": {
+    "mtime": 1780826654.7368634,
+    "ast_hash": "af8a51e69c51a5d27eca8e763bc0f097",
+    "semantic_hash": "af8a51e69c51a5d27eca8e763bc0f097"
+  },
+  "/Users/eugenio/dev/RAHasher/src/dynlib/dynlib.c": {
+    "mtime": 1780826654.7368197,
+    "ast_hash": "0d29cfeb9abaa4e8787dc61fcb98d46b",
+    "semantic_hash": "0d29cfeb9abaa4e8787dc61fcb98d46b"
+  },
+  "/Users/eugenio/dev/RAHasher/README.md": {
+    "mtime": 1780826654.732281,
+    "ast_hash": "70716da33246756d70681ef4eae002b4",
+    "semantic_hash": "70716da33246756d70681ef4eae002b4"
+  },
+  "/Users/eugenio/dev/RAHasher/AGENTS.md": {
+    "mtime": 1780858428.7738469,
+    "ast_hash": "1b549fff1ed4ee61f69cd1979d23feb0",
+    "semantic_hash": "1b549fff1ed4ee61f69cd1979d23feb0"
+  },
+  "/Users/eugenio/dev/RAHasher/docs/cli-macos-linux-port-plan.md": {
+    "mtime": 1780834517.9451172,
+    "ast_hash": "25e3863f05dfee15a0df692365956dd3",
+    "semantic_hash": "25e3863f05dfee15a0df692365956dd3"
+  },
+  "/Users/eugenio/dev/RAHasher/.github/workflows/c-cpp.yml": {
+    "mtime": 1780826654.7318375,
+    "ast_hash": "63a5357e542dd27cbafc9a6befdab263",
+    "semantic_hash": "63a5357e542dd27cbafc9a6befdab263"
+  },
+  "/Users/eugenio/dev/RAHasher/.github/ISSUE_TEMPLATE/feature_request.md": {
+    "mtime": 1780826654.731762,
+    "ast_hash": "49962d38ba5c4e3ff9b41a27b630bb37",
+    "semantic_hash": "49962d38ba5c4e3ff9b41a27b630bb37"
+  },
+  "/Users/eugenio/dev/RAHasher/.github/ISSUE_TEMPLATE/bug_report.md": {
+    "mtime": 1780826654.7316616,
+    "ast_hash": "7c3cdd2b356a767f85df23cb87255443",
+    "semantic_hash": "7c3cdd2b356a767f85df23cb87255443"
+  },
+  "/Users/eugenio/dev/RAHasher/.github/ISSUE_TEMPLATE/config.yml": {
+    "mtime": 1780826654.731708,
+    "ast_hash": "cd5b8d3fbe4149ad667f73878a33a9bb",
+    "semantic_hash": "cd5b8d3fbe4149ad667f73878a33a9bb"
+  },
+  "/Users/eugenio/dev/RAHasher/src/speex/version.txt": {
+    "mtime": 1780826654.7398784,
+    "ast_hash": "0029ce80da3395f269db590524a6ab49",
+    "semantic_hash": "0029ce80da3395f269db590524a6ab49"
+  }
+}
